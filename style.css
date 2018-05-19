@@ -1,0 +1,9 @@
+/*style for dynamic-table tag initially it will be hidden*/
+#dynamic-table {
+    background-color: lightgrey;
+    visibility: hidden;
+}
+/*style for instructions text*/
+.instruction{
+    color: gray;
+}
